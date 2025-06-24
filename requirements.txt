@@ -1,5 +1,5 @@
 Cython
 pandas==2.2.3
-scikit_learn==1.4.2
+scikit-learn==1.4.2
 streamlit==1.32.0
 xgboost==3.0.2
